@@ -29,6 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bombo43453&show_icons=true&locale=en&layout=compact" alt="bombo43453" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bombo43453&show_icons=true&locale=en" alt="bombo43453" /></p>
+![Bombo's Github Stats](https://github-readme-stats.vercel.app/api?username=Bombo43453&show_icons=true&theme=radical)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bombo43453&" alt="bombo43453" /></p>
