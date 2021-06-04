@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **discord.js mongoose**
 
-- 📫 How to reach me **lanthonylal@gmail.com / DM on discord : bombo43453#1901 **
+- 📫 How to reach me **lanthonylal@gmail.com / DM on discord : bombo43453#1901**
 
 - ⚡ Fun fact **I learned to code when I was 12**
 
