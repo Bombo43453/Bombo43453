@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bombo43453&label=Profile%20views&color=0e75b6&style=flat" alt="bombo43453" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/Bombo43453=ryo-ma&rank=S" alt="bombo43453" /></a> </p>
-
-
 - 🔭 I’m currently working on **Bombot (will release soon)**
 
 - 🌱 I’m currently learning **html, node js**
@@ -19,6 +16,7 @@
 - 📫 How to reach me **lanthonylal@gmail.com / DM on discord : bombo43453#1901**
 
 - ⚡ Fun fact **I learned to code when I was 12**
+
 
 ☕ Consider Buying Me a Coffee ☕
 
