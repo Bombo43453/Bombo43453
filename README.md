@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/broosky69" target="blank"><img src="https://img.shields.io/twitter/follow/broosky69?logo=twitter&style=for-the-badge" alt="broosky69" /></a> </p>
 
-- 🔭 I’m currently working on **EA-Bot (will release soon)**
+- 🔭 I’m currently working on **Bombot (will release soon)**
 
 - 🌱 I’m currently learning **html, node js**
 
