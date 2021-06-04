@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **html, node js**
 
-- 🤝 I’m looking for help with **discord.js**
+- 🤝 I’m looking for help with **html, discord.js, node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/Bombo43453](github.com/Bombo43453)
 
 - 💬 Ask me about **discord.js mongoose**
 
-- 📫 How to reach me **lanthonylal@gmail.com**
+- 📫 How to reach me **lanthonylal@gmail.com / DM on discord : bombo43453#1901 **
 
 - ⚡ Fun fact **I learned to code when I was 12**
 
