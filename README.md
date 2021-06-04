@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bombo43453" alt="bombo43453" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/broosky69" target="blank"><img src="https://img.shields.io/twitter/follow/broosky69?logo=twitter&style=for-the-badge" alt="broosky69" /></a> </p>
 
 - 🔭 I’m currently working on **Bombot (will release soon)**
 
@@ -21,10 +20,9 @@
 
 - ⚡ Fun fact **I learned to code when I was 12**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/broosky69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="broosky69" height="30" width="40" /></a>
-</p>
+Consider Buting Me a Coffee.
+
+<a href="https://www.buymeacoffee.com/Bombo43453" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
