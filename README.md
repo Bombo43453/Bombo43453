@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I learned to code when I was 12**
 
-Consider Buting Me a Coffee.
+☕ Consider Buying Me a Coffee ☕
 
 <a href="https://www.buymeacoffee.com/Bombo43453" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
