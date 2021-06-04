@@ -33,4 +33,5 @@
 ![Bombo's Github Stats](https://github-readme-stats.vercel.app/api?username=Bombo43453&show_icons=true&theme=radical)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bombo43453&" alt="bombo43453" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bombo43453&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
